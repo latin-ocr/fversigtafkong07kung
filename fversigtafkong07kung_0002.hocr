@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fversigtafkong07kung_0002.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1674 116">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1674 116">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1674 116; baseline 0 2504"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1674 116; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 507 1846 1380 1944">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 507 1843 1380 1950">
+     <span class='ocr_line' id='line_1_2' title="bbox 507 1846 1380 1944; baseline -0.007 -23"><span class='ocrx_word' id='word_1_2' title='bbox 507 1857 568 1921; x_wconf 64' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_3' title='bbox 593 1851 965 1920; x_wconf 55' lang='grc' dir='ltr'>ΒΗΑΡΝ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1067 1846 1196 1915; x_wconf 69' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1378 1931 1380 1944; x_wconf 11' lang='grc' dir='ltr'><strong>ἃ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 175 1996 1249 2163">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 175 1962 1381 2189">
+     <span class='ocr_line' id='line_1_3' title="bbox 175 1996 1249 2163; baseline 0.003 -4"><span class='ocrx_word' id='word_1_6' title='bbox 175 1996 1249 2163; x_wconf 44' lang='lat' dir='ltr'>WMQQ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 660 2193 1174 2257">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 660 2193 1174 2257">
+     <span class='ocr_line' id='line_1_4' title="bbox 660 2193 1174 2257; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 660 2193 1174 2257; x_wconf 66' lang='grc' dir='ltr'>1885-ΙὲΞὸ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 109 894 1326 2496">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 109 894 1326 2496">
+     <span class='ocr_line' id='line_1_5' title="bbox 109 894 1326 2496; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 109 894 1326 2496; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
